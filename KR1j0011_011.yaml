@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR1j0011/krp/v1/juan/11
+seq: 11
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 埤雅卷六音釋蹌七羊䧿鵲駮布角雓余喈皆瞰看睨詣曛許云阞來得絙胡官礜弋庻毈段垤徒結雚貫鴚歌脰豆鳱干蜮胡國鵙狊躑直炙􅕯歌咮竹救唼妾妒丹故瀰奴禮鷕委猋標蹼撲鵻錐鷚繆鷃晏翬暉揄與珠褕余招澣汗鳶員屰以專攜戸圭敺區鴧以出芘祕直由亶多簡團磔責瞼檢蹠之石胅迭矰曾噰雍遰逓燠於六冸判䳸麻鷙執鴘匹免暍於歇於陵鷞爽述鵁交鶄青鳽五革䴉似宣鴋方嶼與䀪胡郎鸎於耕鶂午的鷧郁秘
+  hash: sha256:0ddea5d0ab38386f16fad5e5f730c1491b4a658becaa867d8664b351a3dc3d63
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR1j0011_WYG_011-1a}
+metadata:
+  title: 埤雅
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2016-04-12 14:30:40.143195'
+  source:
+    repository: kanripo
+    path: KR1j0011/KR1j0011_011.txt
+hash: sha256:9d8dfa6b798df4fd325e63e8fe822419878bf67920f2e84ddde2ee45f164c6ae

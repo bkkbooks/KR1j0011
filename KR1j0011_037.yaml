@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR1j0011/krp/v1/juan/37
+seq: 37
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 埤雅卷十九音釋泂古營禋因涖立殱子亷倬知角渰淹倌古宦霡脉霂沐薶埋芃篷丂苦道禹俱隮子計孌力傳涔岑祲子鴆殄徒典矞決坋扶粉瀌飄晛奴見晷居美昕忻晞希煦嘘昳迭旰榦霙英䨘霰濇所力洩泄雱旁霾埋曀於計穨頽僄匹妙遬思鹿庉大本颲列飉力么颼所流
+  hash: sha256:39b826ec0297b81530056fa34a6abb4abbfe43d45d4bb61c4e396308ce2d9d35
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR1j0011_WYG_037-1a}
+metadata:
+  title: 埤雅
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2016-04-12 14:30:40.143195'
+  source:
+    repository: kanripo
+    path: KR1j0011/KR1j0011_037.txt
+hash: sha256:51cbdee1133a7e230cb32dd94b726236cd63e2805c319101721f60d30bf8e1d5

@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR1j0011/krp/v1/juan/5
+seq: 5
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 埤雅卷三音釋麐麟麕君驨胡圭㭬捉迒剛􅚵狃町挺噇土緩㗖啖蛻稅噬視制虺灰麈主蒨茜黦欝􆒓虓許交兕徐姊麙巖麃白交麇君繢丘謂剸團豝巴殪意觥古横觩求獱婢賔旟于褎布刀幨尺占濈側立訛五戈瀐纎羸雷箠捶瘯族毳芮阤豕牷全躁皂燥先道犉而純睫接窌窖脰豆㾞猶茢列
+  hash: sha256:abaced35d4f312f8a8d38398a2aade3c7cde210e2b072b0b051e35806a31ebfe
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR1j0011_WYG_005-1a}
+metadata:
+  title: 埤雅
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2016-04-12 14:30:40.143195'
+  source:
+    repository: kanripo
+    path: KR1j0011/KR1j0011_005.txt
+hash: sha256:421036f8f7bb7bc09068ef2ae93647716f258e25638e1b189e5d0002d03d5f37

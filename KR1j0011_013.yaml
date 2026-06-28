@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR1j0011/krp/v1/juan/13
+seq: 13
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 埤雅卷七音釋鷖醫鳲尸鶌窟鵻錐鵜啼䲭尺之鶂逆潨在宗頡結鸍施慤殻鶤昆摰至鉉胡犬跱丈巳郯談皥昊鵙鷩别秸戞雔讎呼霸鵃嘲鷽學泆余質㖡夜鳻分䳕浮鵴匊􅝣唯辟䳫巨惟鳺夫鴀浮栩香羽嘏古鴮烏鸅澤㘥由瞀木輈周磔責鸋寧鷇叩鷊隔之然眄盼澥蟹擭畫阪返貙樞系鴠旦毿參沓踏咮竹救麀憂翯學
+  hash: sha256:72ebd75345549cba908f185d6722e36d7067ee44c4e60fb0ed49b676d813fb3d
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR1j0011_WYG_013-1a}
+metadata:
+  title: 埤雅
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2016-04-12 14:30:40.143195'
+  source:
+    repository: kanripo
+    path: KR1j0011/KR1j0011_013.txt
+hash: sha256:c77388c4091cf6780236226c94dd12bf5ba0b63eb46b9ca28815f15e0e9a8867

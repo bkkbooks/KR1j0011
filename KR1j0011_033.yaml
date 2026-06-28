@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR1j0011/krp/v1/juan/33
+seq: 33
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 埤雅卷十七音釋䓿胡敢􅣿淡蕅五口繖思旦臽陷蕸何加蔤美筆搴九輦闉於神闍都飴翼之菽叔穗遂蔠終珽梃葴至諶澱殿蓄五六剶丑縁襜尺占䕲力稔洳如庶觱畢蜇折蘠才良褖他亂縠胡木襢袒袡如亷埽蘇道瞬舜羭與朱莔盲瞖於計蓫抽六蒐搜藘旅居墠常演栲靠枸舉楰俞主耇古候耋迭耄茂蓐乳属叜蘇后虉鶂黥巨京劓魚器
+  hash: sha256:3ccecca37c60d1799fb0ce2d6dbff6e7284ef170b5216d4662ccc950e490d10d
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR1j0011_WYG_033-1a}
+metadata:
+  title: 埤雅
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2016-04-12 14:30:40.143195'
+  source:
+    repository: kanripo
+    path: KR1j0011/KR1j0011_033.txt
+hash: sha256:5801730cf35fbcaef5cfcaae9f466020ad43fe4303190c71565aa84da233c0ce

@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR1j0011/krp/v1/juan/17
+seq: 17
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 埤雅卷九音釋䳵勑􅠃式鶪决翪粽鸊布覔獍竟貙樞袚拂臛乎各黮葚䳭即刁虦棧犉而純憋撇雋徂兖鷕以沼呷乎甲哠號漬積巂胡圭鶗題湎免俛俯鉼餅緤絏瞼檢眨挿鷊鶂甓闢卭窮鴇保胾恣腯徒骨齝丑之􅟇力唐鴔皮及鵀女林鷸以律矞其律衒胡絹舄昔
+  hash: sha256:17dc5edef31828f57198e4ba1049826d0421df51b12b1559e3be5124c9644103
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR1j0011_WYG_017-1a}
+metadata:
+  title: 埤雅
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2016-04-12 14:30:40.143195'
+  source:
+    repository: kanripo
+    path: KR1j0011/KR1j0011_017.txt
+hash: sha256:5363b63721696396d1c5092448dcef47a91f80f09e167bf4c559ef2127d5ebbd

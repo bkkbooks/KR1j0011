@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR1j0011/krp/v1/juan/27
+seq: 27
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 埤雅卷十四音釋椔側師枌扶云椇俱禹莍求耋迭缶否肪方皵昔榎賈芓史蔩寅茆卯莤由荄皆艼頂芑玘椈居六詘屈樅子庸櫬楚鎮櫜髙氂釐檟賈樲如至檍於力檿於簞榝所㸃綌去逆雘於縳狙覻菑支栵例檉敕貞梀丑足桋余脂梫子禁鯀古本栩許荁桓薧槁滫思酒瀡髄荎大結羒父云飴翼之枅結賢栱居冡
+  hash: sha256:2c8e9c7c6b77afeccc845017682f80757bbb6292d6c597e150c92934b4b8e6a8
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR1j0011_WYG_027-1a}
+metadata:
+  title: 埤雅
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2016-04-12 14:30:40.143195'
+  source:
+    repository: kanripo
+    path: KR1j0011/KR1j0011_027.txt
+hash: sha256:8a915cf6f82afa902969d264c1521d22f2e4950219ed61abdc48d4d1d3e9ce0a

@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR1j0011/krp/v1/juan/9
+seq: 9
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 埤雅卷五音釋羜文與宁治旅佇除吕藇徐與麷豐蕡扶云歜燭醓毯蓛桑卜羝丁兮觝抵䍮雉矯牸字緎于力䌰尼輒緵粽襚穗嘷豪繢㑹麢零麠京蹙促羱原追羦胡官羠因以餔布喙許穢獫力贍帨稅鋂梅蹢擲很恨上聲􅘻核牿古督豶墳杙弋睫接􅛊然猨猿􅍜覔薻子到駹莫江腯徒本豢祛緩筴古洽㹖患猣子公豻岸麛迷􅎭坦椹猪金
+  hash: sha256:04a80a2bd8c1e852416eedfab65dabdecd6c7ba2c636025651de8ccb790d87dc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR1j0011_WYG_009-1a}
+metadata:
+  title: 埤雅
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2016-04-12 14:30:40.143195'
+  source:
+    repository: kanripo
+    path: KR1j0011/KR1j0011_009.txt
+hash: sha256:37e5a8599164e2b0fe7909ec8aa37df3cd6928f16c9651932df3313d69da648d

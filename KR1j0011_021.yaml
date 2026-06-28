@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR1j0011/krp/v1/juan/21
+seq: 21
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 埤雅卷十一音釋臝祼飼似䌰攝蟓象蚢杭􅠸子六蒦穫噲夬噦火外蜱毗噉啖蠛亡結蟘得蟊謀秠痞秬巨菀苑嘒許惠菌窘罅赫􅣒於凝額額螇胡雞螰力木蚞木蛷求檐言以朱溼濕螾引􅥿斛膢力侯螲知栗瘻漏䗜流䖵昆甿英綳瞀木蠸巨袁噆錯感䶆錐鼷下雞鼫市亦䶂之勺悖輩鼬右鼪所敬䶉留鼩劬鼱子盈即容鼯吾蠝雷鴺啼鶮鶴蜼余救鰈它臘鶼兼岠其呂蝘偃蠑榮螈原蠦爐􅨦直連䗂虎䗔侯鼃蛙澠猛蜙松蝑胥蠵弋規
+  hash: sha256:82f6d8e3024bce82ac7c383bb450980d191a7d6d480f530b4e5759f3c758749a
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR1j0011_WYG_021-1a}
+metadata:
+  title: 埤雅
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2016-04-12 14:30:40.143195'
+  source:
+    repository: kanripo
+    path: KR1j0011/KR1j0011_021.txt
+hash: sha256:d09be761d0ef9732d3e7bf8e936133d0debca55669fcd9f42808be8d241ecb08

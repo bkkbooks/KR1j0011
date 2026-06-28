@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR1j0011/krp/v1/juan/15
+seq: 15
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 埤雅卷八音釋鷮驕斵捉鸒預隼筍嗛謙籋聶鳦乙鷾意鴯而頡血頏杭淛浙疇鶅緇鵗希鷷遵詖比揄頭麃白交爰袁鴽如蜃時軫雊姤㗖淡槙真鷁益鴷列瘻漏齲炬驅雨銛思廉鵯卑鷢厥鴆振沔免噬世䎒莊善􅧭以專鷳閒搰骨鍇諧孚俘􅵒未鴄匹􅝶鴨鴱艾紩秩拚弁毖秘宎夭月鑣摽噦誨踞據麐麟砥紙鳳鷫肅鷞雙鷟族鶠偃
+  hash: sha256:df31ee33e98010db10ff2a26181e4b180f00d93bc9626ba78ebda07da331d0fe
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR1j0011_WYG_015-1a}
+metadata:
+  title: 埤雅
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2016-04-12 14:30:40.143195'
+  source:
+    repository: kanripo
+    path: KR1j0011/KR1j0011_015.txt
+hash: sha256:6fa128b0e2f12b4fdac2ca9979b988732e958626727cf52575b3c75fecb5c35d

@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR1j0011/krp/v1/juan/23
+seq: 23
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 埤雅卷十二音釋駂布老馵之喻驖徒結騵原駽胡絹駰一人駁騋力才駥而弓豔艷袤茂袷何夾駑乃乎襮剥騅之誰毳芮菼毯韎妹緇側其韐合絰徒結騧假華徒馭魚據馵之戍馽知立囗圍駢部田鬛列嘽啖駻何旦驈余橘縓七絹䞓丑真騂思營駉古熒駜皮筆猗於宜􅠋宜寄駓普悲駵力由􅏋髯蹵就騲草輈竹留驒它雒洛騢胡加驔徒㸃驎力振骭遐諫駣徒髙􅦩布戛齧蘖
+  hash: sha256:11381a8f464012a72f52951896dfe8ef92c1c0252cf0dae72505de11604a2a11
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR1j0011_WYG_023-1a}
+metadata:
+  title: 埤雅
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2016-04-12 14:30:40.143195'
+  source:
+    repository: kanripo
+    path: KR1j0011/KR1j0011_023.txt
+hash: sha256:691fe0972e11deeecfcc303a2b2b6ee32c183475af8b0c5c2301697b572e519c
