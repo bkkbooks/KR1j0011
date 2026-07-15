@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 埤雅卷十六音釋䪥薤蘪縻芣浮苢以豚屯膾㑹瑲且揚珩横葑匪庸薞孫菔扶福涗始銳礿之若醆盞樛鳩蘬邱非蓏祼瓞跌槁杲姣狡銚姚芅弋萇除良購古候秣末鬱紆物雚貫蘄芹茝齒虈許嬌臣移呦幽捋蘆活䵷蛙㡭繼蠙歩田簭筮芀丁聊蕢竒愧桴浮懾章歩薍魚惠罛孤啍徒孫璊莫昆􅣞毯計虋莫温􅨷莫昆緂他甘蔈方燒荂計俱斾蒲盖蘜居六
-  hash: sha256:cb3f60a750f3b110dc523dc910d8d345d20a8e60f8ced1da3be04aad382f702a
+  text: 埤雅卷十六音釋薤薤蘪縻芣浮苡以豚屯膾會瑲且揚珩橫葑匪庸薞孫蔔扶福涗始鋭礿之若盞盞樛鳩蘬邱非蓏祼瓞跌稿杲姣狡銚姚芅弋萇除良購古候秣末鬱紆物雚貫蘄芹茝齒虈許嬌臣移呦幽捋蘆活蛙蛙繼繼蠙步田簭筮芀丁聊蕢竒愧桴浮懾章步薍魚惠罛孤啍徒孫璊莫昆􅣞毯計虋莫溫􅨷莫昆緂他甘蔈方燒荂計俱斾蒲蓋蘜居六
+  hash: sha256:46bc53bf433b9ebbc2ffa1fa70cdb4f77b34503cdedc85592ad4ca20124a198f
   markers:
   - {type: page-break, offset: 0, content: '', id: KR1j0011_WYG_031-1a}
 metadata:
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: kanripo
     path: KR1j0011/KR1j0011_031.txt
-hash: sha256:3cd6b0d50c9c08a71d3dbaa740451b647a501ee2fd05402219cf127960ae7a9d
+hash: sha256:f24a92abdb5375ea8c5d74ad2b6dd9af6953fabdb5ccbc49c238c96991774ac6

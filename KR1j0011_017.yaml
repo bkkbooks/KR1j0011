@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 埤雅卷九音釋䳵勑􅠃式鶪决翪粽鸊布覔獍竟貙樞袚拂臛乎各黮葚䳭即刁虦棧犉而純憋撇雋徂兖鷕以沼呷乎甲哠號漬積巂胡圭鶗題湎免俛俯鉼餅緤絏瞼檢眨挿鷊鶂甓闢卭窮鴇保胾恣腯徒骨齝丑之􅟇力唐鴔皮及鵀女林鷸以律矞其律衒胡絹舄昔
-  hash: sha256:17dc5edef31828f57198e4ba1049826d0421df51b12b1559e3be5124c9644103
+  text: 埤雅卷九音釋鷘勑􅠃式鶪決翪粽鸊布覔獍竟貙樞袚拂臛乎各黮椹鶺即刁虦棧犉而純憋撇雋徂兖鷕以沼呷乎甲哠號漬積巂胡圭鶗題湎免俯俯鉼餅緤絏瞼檢眨插鷊鶂甓闢卭窮鴇保胾恣腯徒骨齝丑之􅟇力唐鴔皮及鵀女林鷸以律矞其律衒胡絹舄昔
+  hash: sha256:3498eba7ca42a59e0d5282bbce7fd871018dfc4686f09eb8194a935d154f5c62
   markers:
   - {type: page-break, offset: 0, content: '', id: KR1j0011_WYG_017-1a}
 metadata:
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: kanripo
     path: KR1j0011/KR1j0011_017.txt
-hash: sha256:5363b63721696396d1c5092448dcef47a91f80f09e167bf4c559ef2127d5ebbd
+hash: sha256:d9769c15c104ba31b608418ca80e20409ca5ded440fc48db68b4ed49b5dab738

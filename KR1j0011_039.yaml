@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 埤雅卷二十音釋䙝思列黷瀆罍雷噬視制嗑磕暵漢􅏎為輙昡胡遍朓勅了朒女六姝殊朏芳尾遡蘇故噣竹救娣徒厲媵以證旂渠希斿尤旟于旐除矯涸固雩羽俱蔀步口醹如庾卬昂跂竒逆睆華綰捄求翕許及蝃丁計蝀丁孔挈苦結潰㑹縠斛
-  hash: sha256:ae0dedff16807bde935c462a5dabefd89e47b837a84c6e398ad9cca9d5bba8bb
+  text: 埤雅卷二十音釋褻思列黷瀆罍雷噬視制嗑磕暵漢􅏎為輒昡胡遍朓敕了朒女六姝殊朏芳尾遡蘇故噣竹救娣徒厲媵以證旗渠希斿尤旟于旐除矯涸固雩羽俱蔀步口醹如庾卬昂跂竒逆睆華綰救求翕許及蝃丁計蝀丁孔挈苦結潰會縠斛
+  hash: sha256:ff97badb2abea6a1809f5fa026a744caa80eb63a54bb31fe2543e6d2a975e29c
   markers:
   - {type: page-break, offset: 0, content: '', id: KR1j0011_WYG_039-1a}
 metadata:
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: kanripo
     path: KR1j0011/KR1j0011_039.txt
-hash: sha256:01fb43b583f8bec573fd7600e09efb2dd2837c34fcecdba1e09f21c645441666
+hash: sha256:de602201043c8ee53339ec9de6b8fd1b5cd34ca6797ca628ea6075172c51638c

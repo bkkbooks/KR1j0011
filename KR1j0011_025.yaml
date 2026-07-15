@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 埤雅卷十三音釋柚右􅟮麗芘庇嗇色茢列靧悔䕩來道澁色芾沛茇拔憩氣柟南慊口玷塈既礎楚黦鬰勰恊礪力燀闡鉤勾㚄帝欇苦交穫活黯乙減麰牟耰憂磽苦交楙茂籜托構古侯緻馳二牂臧稊題櫾余舟萑之誰鱄市兖鮞如之菁精栘移檖遂穠農邲蒲必韡于鬼
-  hash: sha256:b5c4fb171b765f5159879731ad54bdfd07aa9fe44dc1b21ab6236e41fedcb706
+  text: 埤雅卷十三音釋柚右􅟮麗芘庇嗇色茢列靧悔䕩來道澀色芾沛茇拔憩氣柟南慊口玷塈既礎楚黦鬱協協礪力燀闡鉤勾疐帝欇苦交穫活黯乙減牟牟耰憂磽苦交楙茂籜托構古侯緻馳二牂臧稊題柚余舟萑之誰鱄市兖鮞如之菁精栘移檖遂穠農邲蒲必韡于鬼
+  hash: sha256:33963bb993e179e802740aa703ee22106e2d06838e73258b51fbbbc9ef105c02
   markers:
   - {type: page-break, offset: 0, content: '', id: KR1j0011_WYG_025-1a}
 metadata:
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: kanripo
     path: KR1j0011/KR1j0011_025.txt
-hash: sha256:65da2e9abe5191bd282a5a60f8ba1e6345ca8aafab92cc461d2bb3c4b34b163b
+hash: sha256:7e9986af30666971c7db542d8a69661f25b5c6b074061dd8f841b04393aaf31e
